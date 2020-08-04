@@ -14,12 +14,12 @@ _This was the first code written for Epicodus._
 * _Open the directory._
 * _Select hello-world.html._
 * _Open the file in webrowser._
-* _Enjoy._
+* _Enjoy it._
 
 
 ## Technologies Used
 
-_HTML_
+_HTML_ 
 
 ### License
 
